@@ -8,14 +8,14 @@
     "text": ""
   },
   "text": {
-    "more": "Plus le nœud est foncé,  plus il sort de l\u0027argent.\nPlus le nœud (pays) est grand, plus il rentre de l\u0027argent\nLes liens sont plus importants dans la dimension \"intra\" pays (plus d\u0027argent reçu de l\u0027intérieur du nœud lui-même)",
-    "intro": "Plus le nœud est foncé,  plus il sort de l\u0027argent.\nPlus le nœud (pays) est grand, plus il rentre de l\u0027argent",
-    "title": ""
+    "more": "Plus le nœud (ligue) est foncé,  plus il gagne de l\u0027argent.\nPlus le nœud (ligue) est grand, plus il sort l\u0027argent.",
+    "intro": "Plus le nœud (ligue) est foncé,  plus il gagne de l\u0027argent.\nPlus le nœud (ligue) est grand, plus il sort l\u0027argent.",
+    "title": "Degré sortant - Degré entrant"
   },
   "legend": {
     "edgeLabel": "Montant",
-    "colorLabel": "Degré entrant (argent entrante)",
-    "nodeLabel": "Pays"
+    "colorLabel": "Degré entrant (argent reçue)",
+    "nodeLabel": "Ligue"
   },
   "features": {
     "search": true,
